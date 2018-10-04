@@ -30,3 +30,8 @@
     transform: rotate(360deg);
   }
 }
+
+.markdownOutput {
+  border: black 1px solid;
+  box-shadow: 0px 0px 20px #000;
+}
